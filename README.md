@@ -20,11 +20,13 @@ I feel like the book has done a stellar job of teaching me Java syntax. I am loo
 
 1. Clone this repo and save it to 
 ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/talarsen/beginnerJavaStudy.git
    ```
 2. If you don't have an IDE setup for Java. Here are 2 different IDE tutorials
-   [Visual Studio](https://code.visualstudio.com/docs/java/java-tutorial)
-   [IntelliJ](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#get-started)
+ 
+  [Visual Studio](https://code.visualstudio.com/docs/java/java-tutorial) 
+  
+  [IntelliJ](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#get-started)
    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
