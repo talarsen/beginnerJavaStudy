@@ -18,7 +18,7 @@ I feel like the book has done a stellar job of teaching me Java syntax. I am loo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Clone this repo and save it to 
+1. Clone this repo and save it to a local directory on your machine.
 ```sh
    git clone https://github.com/talarsen/beginnerJavaStudy.git
    ```
